@@ -89,7 +89,7 @@ Register a new account, login with existing credentials, and manage your profile
 The application can be built for production using:
 ```bash
 npm run build
-```
+``
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
